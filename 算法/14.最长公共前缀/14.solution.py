@@ -11,6 +11,6 @@ class Solution:
                 return s1[:i]
         return s1 
     
-
+# 测试
 s = Solution()
-s.longestCommonPrefix(['flower', 'flight','pig'])
+s.longestCommonPrefix(['flower', 'flight','pig']) 
